@@ -1,0 +1,9 @@
+Grille : 10x10 | nbJoueurs : 4 | win or not : n n y n
+Grille : 10x20 | nbJoueurs : 4 | win or not : y y y y
+Grille : 20x10 | nbJoueurs : 4 | win or not : y y n y
+Grille : 20x20 | nbJoueurs : 4 | win or not : y n y y 
+________________________________________________________
+Grille : 10x10 | nbJoueurs : 8 | win or not : y y y y
+Grille : 10x20 | nbJoueurs : 8 | win or not : y n n y
+Grille : 20x10 | nbJoueurs : 8 | win or not : y y y y 
+Grille : 20x20 | nbJoueurs : 8 | win or not : n y y y

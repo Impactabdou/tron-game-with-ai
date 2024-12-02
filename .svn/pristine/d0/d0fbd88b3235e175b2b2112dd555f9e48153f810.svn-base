@@ -1,0 +1,201 @@
+\documentclass{beamer}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+
+\title{Jeu de Tron}
+\author{ Abderrahmene Kabar, Akram Kalkoul, Clémentine Paysant, Younes Mansous}
+\institute{Université de Caen Normandie}
+\date{Février 2024}
+
+\setbeamertemplate{footline}[frame number]
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+
+\section{Introduction}
+\subsection{Jeu de Tron}
+
+
+\begin{frame}
+\begin{center}
+    Le projet choisi
+\end{center}
+\begin{block}{Jeu de Tron et IA}
+Qu'est-ce que le jeu de Tron ?
+\begin{itemize}
+    \item Multi-joueurs
+    \item Sur le modèle du jeu du serpent
+    \item Utilisation des algorithmes IA
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+\begin{frame}
+\begin{block}{Modélisation du jeu}
+Représentation du jeu : 
+\begin{itemize}
+    \item Grille 2D de Integer
+    \item Map pour représenter les positions des joueurs
+    \item Logique
+\end{itemize}
+\end{block}
+
+\end{frame}
+
+
+
+
+
+
+\section{Vue du jeu}
+
+\begin{frame}
+\begin{center}
+    Vue du jeu
+\end{center}
+\begin{block}{Représentation}
+\begin{itemize}
+	\item Mise en place de la vue
+	\item Représentation avec Swing
+		\end{itemize}
+\end{block}
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\textwidth]{image.png}
+
+\end{figure}
+
+
+
+\end{frame}
+
+
+\section{Game State}
+
+\begin{frame}
+\begin{center}
+    Game State du jeu
+\end{center}
+
+\begin{block}{C'est quoi?}
+	\begin{itemize}
+ 	\item Paramètres du jeu
+  	\end{itemize}
+\end{block}
+	
+\begin{block}{heuristique}
+\begin{itemize}
+	\item Calcule des distances pour chaque joueur
+	\item Diagramme de Voronoï
+		\end{itemize}
+\end{block}
+
+\end{frame}
+
+
+
+\section{Les IA}
+\subsection{Les algorithmes IA}
+
+\begin{frame}
+\begin{center}
+    Les algorithmes IA
+\end{center}
+
+\begin{block}{Random IA}
+\begin{itemize}
+	\item Le choix d'un mouvement basée totalement sur l'aléatoire
+\end{itemize}
+\end{block}
+\begin{block}{MAXN}
+	\begin{itemize}
+ 	\item Définition
+  	\item Déroulement
+  	\end{itemize}
+\end{block}
+\begin{block}{Paranoid}
+	\begin{itemize}
+	\item Définition
+	\end{itemize}
+\end{block}
+\begin{block}{SOS}
+	\begin{itemize}
+	\item Définition
+	\end{itemize}
+\end{block}
+
+\end{frame}
+
+
+
+\subsection{Nos objectifs}
+\begin{frame}
+\begin{center}
+    Nos objectifs
+\end{center}
+\begin{alertblock}{5 objectifs}
+\begin{itemize}
+	\item Avoir un jeu de Tron fonctionnel et optimisé
+        \item Avoir l'algorithme MAXN fonctionnel
+        \item Avoir l'algorithme Paranoid fonctionnel
+        \item Ajouter l'extension s'inspirant de l'algorithme SOS 
+        \item Une interface graphique simple, donnant les résultats
+    \end{itemize}
+\end{alertblock}
+\end{frame}
+
+
+\begin{frame}
+\begin{center}
+    Nos objectifs
+\end{center}
+\begin{alertblock}{5 objectifs}
+    \begin{itemize}
+	\item Avoir un jeu de Tron fonctionnel et optimisé
+        \item Avoir l'algorithme MAXN fonctionnel
+        \item Avoir l'algorithme Paranoid fonctionnel
+        \item Ajouter l'extension s'inspirant de l'algorithme SOS 
+        \item Une interface graphique simple, donnant les résultats
+    \end{itemize}
+\end{alertblock}
+\begin{block}{Avons nous remplis tout les objectifs ?}
+Presque...
+\end{block}
+\end{frame}
+
+
+
+
+
+
+
+\section{La suite du projet}
+
+\begin{frame}
+\begin{center}
+    Quelques axes de travail pour les séances suivantes
+\end{center}
+
+\begin{itemize}
+    \item Paranoid et SOS
+    \item Optimisation du code
+    \item Les expérimentations
+    \item L'interface
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+    \vfill
+    \centering
+    \Huge Merci de nous avoir écoutés
+    \vfill
+\end{frame}
+
+
+\end{document}
+

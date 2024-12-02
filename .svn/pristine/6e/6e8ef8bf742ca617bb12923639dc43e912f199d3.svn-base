@@ -1,0 +1,1312 @@
+[
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["MaxN IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["Paranoid IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "Paranoid IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "MaxN IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "Paranoid IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "MaxN IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "Paranoid IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [1, 1, 1, 1],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [2, 2, 2, 2],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [3, 3, 3, 3],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [4, 4, 4, 4],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [5, 5, 5, 5],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  },
+  {
+    "strategies": ["SOS IA", "SOS IA", "SOS IA", "MaxN IA"],
+    "depths": [6, 6, 6, 6],
+    "params": [35, 35, 4, 2],
+    "numIterations": 150,
+    "teamMapping": {
+      "1": [1, 2],
+      "2": [2, 3]
+    }
+  }
+]
